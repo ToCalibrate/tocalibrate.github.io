@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Current Models
 nav_order: 2
 ---
 
