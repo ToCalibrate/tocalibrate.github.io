@@ -6,6 +6,8 @@ How to make a Minimum Viable Product: https://www.youtube.com/watch?v=gTEHbBBl_d
 
 For Basic Knowledge: 
 
+Block Chain: https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain
+
 Cryptocurrency: https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency
 
 DeFi: https://www.coinbase.com/learn/crypto-basics/what-is-defi
