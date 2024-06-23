@@ -1,3 +1,11 @@
+For Business Management: 
+
+How to build your busimess: https://www.youtube.com/watch?v=awnn-bqV_Tw 
+
+How to make a Minimum Viable Product: https://www.youtube.com/watch?v=gTEHbBBl_dY&t=61s
+
+For Basic Knowledge: 
+
 Cryptocurrency: https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency
 
 DeFi: https://www.coinbase.com/learn/crypto-basics/what-is-defi
