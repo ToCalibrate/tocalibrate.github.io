@@ -8,12 +8,14 @@ Target client: Institutions or individuals seeking a calibrated model that they 
 
 Target contributor: Anyone can contribute. No matter you are a college student who have a passion to learn about quantitative modeling or you are a professional researcher who have suceeded in developing models. We have a pool of models waiting for your calibration and perfection. More importantly, we will make your contributions seen and make your voice heard. Most importantly, we have a incentive program ......
 
-# For the first project -- Staking: 
+# For the first project -- Fixed Income -- Rate Modeling: 
 
-What is staking? 
+# For the second project -- Equity -- Stock Prices: 
 
-How it affects Crypto Market? 
+# For the third project -- Equity -- Black Scholes: 
 
-Why is it an opportunity? 
+# For the fourth project -- Crypto Asset -- Staking: 
 
-Developed a first stage prototype model. 
+# For the fifth project -- Fixed Income -- Mortgage Prepayments: 
+
+# For the fourth project -- Commodity -- : 
