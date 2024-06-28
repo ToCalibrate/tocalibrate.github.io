@@ -5,13 +5,13 @@ Even if the output or models we made are naive, from a different perspective it 
 Think about sklearn, those machine learning models are sometimes tricky to understand, but with sklean, we can try it with different parameters, this will definitely ease the learning process and give people a different perspective to learn. 
 
 
-For Business Management: 
+# For Business Management: 
 
 How to build your busimess: https://www.youtube.com/watch?v=awnn-bqV_Tw 
 
 How to make a Minimum Viable Product: https://www.youtube.com/watch?v=gTEHbBBl_dY&t=61s
 
-For Basic Knowledge: 
+# For Basic Knowledge: 
 
 Block Chain: https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain
 
