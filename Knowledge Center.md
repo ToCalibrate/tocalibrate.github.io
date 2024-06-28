@@ -1,3 +1,10 @@
+# Reasoning for our project or business: 
+
+Even if the output or models we made are naive, from a different perspective it is still a good way to help people learn how these models work. 
+
+Think about sklearn, those machine learning models are sometimes tricky to understand, but with sklean, we can try it with different parameters, this will definitely ease the learning process and give people a different perspective to learn. 
+
+
 For Business Management: 
 
 How to build your busimess: https://www.youtube.com/watch?v=awnn-bqV_Tw 
