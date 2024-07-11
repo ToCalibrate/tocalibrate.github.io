@@ -18,7 +18,7 @@ permalink: docs/models/equity/stock_prices
 
 ---
 
-## MC Approach
+## Monte Carlo Approach
 
 ```python
 class StockPrices():

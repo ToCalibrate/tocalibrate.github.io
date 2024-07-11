@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Black Scholes
+title: Options
 parent: Equity
 grand_parent: Models
 nav_order: 2
-permalink: docs/models/equity/black_scholes
+permalink: docs/models/equity/options
 ---
 
-# Black Scholes
+# Options
 {: .no_toc }
 
 ## Table of contents
@@ -18,4 +18,6 @@ permalink: docs/models/equity/black_scholes
 
 ---
 
-## Something
+## Monte Carlo Approach
+
+## Black Scholes Approach
