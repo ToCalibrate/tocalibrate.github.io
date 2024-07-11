@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  {% include head.html %}
+  <script>
+    (function() {
+      var storedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', storedTheme);
+      window.jtd = window.jtd || {};
+      window.jtd.setTheme = function(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+      };
+    })();
+  </script>
+</head>
+<body>
+  <div class="page-wrap">
+    <div class="side-bar">
+      {% include sidebar.html %}
+    </div>
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="main-content">
+        <div class="page-header js-page-header">
+          {% include header.html %}
+        </div>
+        {% include header_custom.html %}
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="theme-toggle-container"></div>
+  <script src="{{ '/assets/js/themeToggle.js' | relative_url }}" defer></script>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</body>
+</html>
