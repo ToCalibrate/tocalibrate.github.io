@@ -1,0 +1,30 @@
+@import "./color_schemes/light";
+$white: #ffffff !default;
+$off-white: #f7f9f9 !default;
+$grey-lt-000: #e6eff0 !default;
+$grey-lt-100: #c8dfe3 !default;
+$grey-dk-000: #7a9ca1 !default;
+$grey-dk-100: #5c7a7e !default;
+$grey-dk-200: #435a5d !default;
+$grey-dk-300: #2b3b3d !default;
+$teal-000: #2ec4b6 !default;
+$teal-100: #26a69a !default;
+$coral-000: #ff9f1c !default;
+$coral-100: #ff8c00 !default;
+
+
+$color-scheme: newlight;
+$body-background-color: $off-white;
+$body-heading-color: $grey-dk-300;
+$body-text-color: $grey-dk-200;
+$link-color: $teal-000;
+$nav-child-link-color: $grey-dk-100;
+$sidebar-color: $grey-lt-000;
+$base-button-color: $grey-lt-100;
+$btn-primary-color: $teal-100;
+$code-background-color: $grey-lt-000;
+$feedback-color: $coral-000;
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-000;
+$link-color-hover: $pink-000; // A vibrant pink that contrasts well with light backgrounds

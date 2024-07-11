@@ -1,7 +1,0 @@
-.main-content-wrap {
-    transition: opacity 0.5s ease-in-out;
-  }
-  
-.main-content-wrap.fade-out {
-opacity: 0;
-}

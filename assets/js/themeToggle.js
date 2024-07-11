@@ -1,13 +1,13 @@
 (function() {
     document.addEventListener('DOMContentLoaded', function() {
-      const initialTheme = localStorage.getItem('theme') || 'light';
+      const initialTheme = localStorage.getItem('theme') || 'newlight';
       document.documentElement.setAttribute('data-theme', initialTheme);
       if (typeof jtd !== 'undefined' && jtd.setTheme) {
         jtd.setTheme(initialTheme);
       }
   
       function getStoredTheme() {
-        return localStorage.getItem('theme') || 'light';
+        return localStorage.getItem('theme') || 'newlight';
       }
   
       function setStoredTheme(theme) {
@@ -63,7 +63,7 @@
         updateToggleState(); // Initial state
   
         button.addEventListener('click', function() {
-          const newTheme = getStoredTheme() === 'dark' ? 'light' : 'dark';
+          const newTheme = getStoredTheme() === 'dark' ? 'newlight' : 'dark';
           setStoredTheme(newTheme);
           updateToggleState();
         });
