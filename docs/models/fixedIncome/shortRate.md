@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Rate Modeling
+title: Short Rate
 parent: Fixed Income
 grand_parent: Models
-permalink: docs/models/fixed_income/rate_modeling
+permalink: docs/models/fixed_income/short_rate
 nav_order: 1
 ---
 
-# Rate Modeling
+# Short Rate
 {: .no_toc }
 
 ## Table of contents
@@ -18,4 +18,4 @@ nav_order: 1
 
 ---
 
-## Something
+## Monte Carlo Approach
