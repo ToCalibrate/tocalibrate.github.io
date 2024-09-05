@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Commodity
-parent: Models
-permalink: docs/models/commodity
+title: Models
+permalink: docs/models
 nav_order: 1
 ---
 
