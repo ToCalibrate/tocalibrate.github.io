@@ -16,6 +16,7 @@ kramdown:
 
 remote_theme: just-the-docs/just-the-docs
 
+nav_enabled: true
 
 # Back to top link
 back_to_top: true
