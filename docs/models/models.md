@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Models
-permalink: docs/models
 nav_order: 2
 ---
 
