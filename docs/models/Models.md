@@ -2,7 +2,7 @@
 layout: default
 title: Models
 permalink: docs/models
-nav_order: 1
+nav_order: 2
 ---
 
 # Models
