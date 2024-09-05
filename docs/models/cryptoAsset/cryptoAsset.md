@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crypto Asset
-permalink: docs/models/crypto_asset
+permalink: docs/models/crypto
 has_children: true
 parent: Models
 nav_order: 3
