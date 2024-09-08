@@ -9,6 +9,4 @@ nav_order: 1
 
 # Fixed Income
 
-{: .fs-6 .fw-300 }
-
 {: .no_toc }

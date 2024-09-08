@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Staking
-parent: Crypto Asset
+parent: Crypto
 grand_parent: Models
-permalink: docs/models/crypto_asset/staking
+permalink: docs/models/crypto/staking
 ---
 
 # Staking

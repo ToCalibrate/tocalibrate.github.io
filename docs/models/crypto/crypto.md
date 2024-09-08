@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Crypto Asset
+title: Crypto
 permalink: docs/models/crypto
 has_children: true
 parent: Models
 nav_order: 3
 ---
 
-# Crypto Asset
+# Crypto
 
 {: .fs-6 .fw-300 }
 
