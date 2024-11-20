@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Equity
+title: Forward Rate Models
 parent: Models
-permalink: docs/models/equity
+permalink: docs/models/forwardRateModels
 has_children: true
 nav_order: 2
 ---
 
-# Equity
+# Forward Rate Models
 
 {: .fs-6 .fw-300 }
 

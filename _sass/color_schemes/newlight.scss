@@ -7,23 +7,21 @@ $grey-dk-000: #7a9ca1 !default;
 $grey-dk-100: #5c7a7e !default;
 $grey-dk-200: #435a5d !default;
 $grey-dk-300: #2b3b3d !default;
-$teal-000: #2ec4b6 !default;
-$teal-100: #26a69a !default;
-$coral-000: #ff9f1c !default;
-$coral-100: #ff8c00 !default;
+$black-000: #000000 !default;
+$black-100: #1a1a1a !default;
 
 
 $color-scheme: newlight;
 $body-background-color: $off-white;
 $body-heading-color: $grey-dk-300;
 $body-text-color: $grey-dk-200;
-$link-color: $teal-000;
+$link-color: $black-000;
 $nav-child-link-color: $grey-dk-100;
 $sidebar-color: $grey-lt-000;
 $base-button-color: $grey-lt-100;
-$btn-primary-color: $teal-100;
+$btn-primary-color: $black-100;
 $code-background-color: $grey-lt-000;
-$feedback-color: $coral-000;
+$feedback-color: $grey-lt-100;
 $table-background-color: $white;
 $search-background-color: $white;
 $search-result-preview-color: $grey-dk-000;

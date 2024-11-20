@@ -1,8 +1,8 @@
 // Variables (make sure these match your light.scss)
-$teal-000: #2ec4b6;
-$teal-100: #26a69a;
-$coral-000: #ff9f1c;
-$coral-100: #ff8c00;
+$black-000: #000000;
+$black-100: #1a1a1a;
+$grey-000: #d3d3d3;
+$grey-100: #a9a9a9;
 $white: #ffffff;
 
 .main-header {
@@ -25,15 +25,15 @@ $white: #ffffff;
   height: 40px;
   padding: 0;
   border-radius: 50%;
-  border: 2px solid $teal-000;
+  border: 2px solid $black-000;
   cursor: pointer;
   background-color: $white;
-  color: $teal-000;
+  color: $black-000;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
 
   &:hover {
-    background-color: $teal-000;
+    background-color: $black-000;
     color: $white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   }
@@ -54,11 +54,11 @@ a {
 }
 
 .btn-primary {
-  background-color: $teal-000;
-  border-color: $teal-100;
+  background-color: $black-000;
+  border-color: $black-100;
   
   &:hover {
-    background-color: $coral-000;
-    border-color: $coral-100;
+    background-color: $grey-000;
+    border-color: $grey-100;
   }
 }
