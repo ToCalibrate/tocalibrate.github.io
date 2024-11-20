@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://tocalibrate.github.io/
 
 aux_links:
-  Calibrate Repository: https://github.com/ToCalibrate/tocalibrate.github.io
+  Repository: https://github.com/ToCalibrate/tocalibrate.github.io
 
 aux_links_new_tab: true
 
