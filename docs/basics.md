@@ -18,7 +18,7 @@ From my understanding, rates conversion is needed when you want a pricing formul
 
 ### Rates Conversion 
 
-$$E = mc^2$$
+$$\sqrt{3x-1}+(1+x)^2$$
 
 ### Fundamental Theorem of Asset Pricing 
 
