@@ -10,6 +10,6 @@ has_children: true
 ## Models we provide
 
 {: .fs-6 .fw-300 }
-Fixed income, equity, asset, crypto asset, commodity
+Short Rate, Foward Rate, Market
 
 {: .no_toc }
