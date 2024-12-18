@@ -18,20 +18,14 @@ From my understanding, rates conversion is needed when you want a pricing formul
 
 ### Rates Conversion 
 
-\documentclass{article}
 \usepackage[T1]{fontenc}
 \usepackage{mathptmx}
- \usepackage{amsmath}
+\usepackage{amsmath}
 \usepackage{mathtools}
 \usepackage{tikz}
 \usetikzlibrary{matrix,positioning}
 
-\title{latex}
-\author{sophie.zhewen.sun }
-\date{November 2024}
 
-\begin{document}
-\section{Basics}
 \subsection{Zero Coupon Bond Price}
 $$
 P(t, T) = exp(-R(t, T) \cdot (T-t))
