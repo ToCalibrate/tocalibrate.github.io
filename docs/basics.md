@@ -34,13 +34,14 @@ $$
 $$
 R(t, T) = \frac{-log P(t, T)}{T-t} = \frac{1}{T-t} \int_{t}^{T} f(t, u)du
 $$
-\subsection{Shoot Rate}
+
+
 \begin{align*}
     r(t) = \lim_{T \to t}R(t, T) &= \lim_{T \to t} f(t, T)\\
     \to Cash \ C(t): dC(t) &= r(t)C(t)dt\\
     C(T) &= C(0)e^{\int_{0}^{t} r(u)du}
 \end{align*}
-\subsection{Forward Rate}
+
 $$
 F(t, T, S) = \frac{log (\frac{P(t, T)}{P(t, S)})}{S-T}
 $$
@@ -106,7 +107,7 @@ $$
 $$
 \frac{\mu(t, S_1)-r(t)}{\sigma(t, S_1)} = 
 $$
-\end{document}
+
 
 
 ### Fundamental Theorem of Asset Pricing 
