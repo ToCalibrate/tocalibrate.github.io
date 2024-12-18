@@ -31,7 +31,8 @@ $$
 P(t, T) = exp(R(t, T) \cdot (T-t))
 $$
 
-ZCB TYM/Spot Rate
+#### ZCB TYM/Spot Rate
+
 $$
 R(t, T) = \frac{-log P(t, T)}{T-t} = \frac{1}{T-t} \int_{t}^{T} f(t, u)du
 $$
@@ -46,7 +47,8 @@ $$
 $$
 F(t, T, S) = \frac{log (\frac{P(t, T)}{P(t, S)})}{S-T}
 $$
-Instantaneous Forward Rate
+
+#### Instantaneous Forward Rate
 \begin{align*}
     f(t, T) &= \lim_{S \to T} F(t, T, S) \\
     &= -\frac{d}{dT} log P(t, T) \\
@@ -55,20 +57,21 @@ Instantaneous Forward Rate
     &= R(t, T) + (T-t) \frac{dR(t, T)}{dT}
 \end{align*}
 
-\subsection{Par-Yield}
+#### Par-Yield
 $P_n(t)$ is n-period Coupon Bond
+
 \begin{align*}
     P_n(t) &= 100 = p(t, t+n) \sum_{i=1}^{n} P(t, t+i) +100 P(t, t+n)\\
     P(t, t+n) &= 100 \frac{1-P(t, t+n)} {\sum_{i=1}^{n} P(t, t+i)} \text{  (For Bootstrapping)}
 \end{align*}
 
-\subsection{LIBOR/SOFR Rate}
+#### LIBOR/SOFR Rate
 For tenor $\tau$,
 $$
 1+ \tau L(t, t+\tau) = \frac{1}{P(t, t+\tau)} = e^{R(t, t+\tau)}
 $$
 
-Swap Rate
+#### Swap Rate
 
 \begin{tikzpicture}
   \draw [|-|] [thick] (0,0) node[below] {$t$} -- (2,0) node[below] {$t+1$}
@@ -78,8 +81,8 @@ Swap Rate
   \coordinate[label=left:$\text{Receive float rate L(t+i-1, t+i)}$] (A) at (4.5,-0.75);
 \end{tikzpicture}
 
-\section{The Evolution of Interest Rate Modeling}
-\subsection{Evolution}
+### The Evolution of Interest Rate Modeling
+#### Evolution
 $$
 dr(t) = k(\theta - r(t)) + \sigma d\tilde{W}(t) \hspace{0.5cm} \text{(Uasicek 1977)}
 $$
@@ -92,7 +95,7 @@ $$
 dr(t) = (\theta(t)-k(t)r(t))dt + \sigma(t)r(t) d\tilde{W}(t) \hspace{0.5cm} \text{(Hull-White 1990)}
 $$
 
-\section{For HJM}
+For HJM
 $$
 E_{Q}\left(e^{-\int_{t}^{T} r(u)du} \right)
 $$
