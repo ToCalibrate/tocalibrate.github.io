@@ -27,8 +27,9 @@ From my understanding, rates conversion is needed when you want a pricing formul
 
 #### Zero Coupon Bond Price
 
+$$
 P(t, T) = exp(R(t, T) \cdot (T-t))
-
+$$
 
 ZCB TYM/Spot Rate
 $$
