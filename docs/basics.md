@@ -66,10 +66,7 @@ $P_n(t)$ is n-period Coupon Bond
 \end{align*}
 
 #### LIBOR/SOFR Rate
-For tenor $\tau$,
-$$
-1+ \tau L(t, t+\tau) = \frac{1}{P(t, t+\tau)} = e^{R(t, t+\tau)}
-$$
+For tenor $\tau$, $ 1+ \tau L(t, t+\tau) = \frac{1}{P(t, t+\tau)} = e^{R(t, t+\tau)} $
 
 #### Swap Rate
 
