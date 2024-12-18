@@ -25,10 +25,11 @@ From my understanding, rates conversion is needed when you want a pricing formul
 \usepackage{tikz}
 \usetikzlibrary{matrix,positioning}
 
-Zero Coupon Bond Price
-$$
+#### Zero Coupon Bond Price
+
 P(t, T) = exp(R(t, T) \cdot (T-t))
-$$
+
+
 ZCB TYM/Spot Rate
 $$
 R(t, T) = \frac{-log P(t, T)}{T-t} = \frac{1}{T-t} \int_{t}^{T} f(t, u)du
